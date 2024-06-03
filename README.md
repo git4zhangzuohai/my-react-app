@@ -6,3 +6,12 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+# Run
+Assume that you have already installed Node.js version 18 or higher, npm and Vite on your computer.
+To run project,  please execute the following command in the terminal:
+```
+cd my-react-app
+  npm install
+  npm run dev
+```
